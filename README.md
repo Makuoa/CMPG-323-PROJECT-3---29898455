@@ -5,3 +5,6 @@
 
 ## Forgot Password
 -> In the case where a user has forgotten their password they can then just click on the forgot password navigation follow the necessary steps senty via email to create a new password.
+
+# References
+-> -> Kjo-Msft (no date) Knowledge check - training, Training | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/6-knowledge-check (Accessed: 17 September 2023). 
